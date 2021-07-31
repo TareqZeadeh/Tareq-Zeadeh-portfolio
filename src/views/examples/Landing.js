@@ -84,14 +84,14 @@ class Landing extends React.Component {
                   <Row>
                     <Col lg="6">
                       <h1 className="display-3 text-white">
-                      What I'm are excited about in tech.{" "}
+                      What I'm excited about in tech.{" "}
             
                       </h1>
                       <p className="lead text-white">
                         I'm excited about Web Programing and related Programing languages , also I'm excited about Computer Networking and how the data travel between devices and networks.
                       </p>
                       <div className="btn-wrapper">
-                        <Button
+                        {/* <Button
                           className="btn-icon mb-3 mb-sm-0"
                           color="info"
                           href="https://demos.creative-tim.com/argon-design-system-react/#/documentation/alerts?ref=adsr-landing-page"
@@ -112,7 +112,7 @@ class Landing extends React.Component {
                           <span className="btn-inner--text">
                             Download React
                           </span>
-                        </Button>
+                        </Button> */}
                       </div>
                     </Col>
                   </Row>
